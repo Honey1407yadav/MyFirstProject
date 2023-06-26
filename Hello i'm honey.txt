@@ -1,25 +1,10 @@
-Hello i'm honey
-Hello i'm harshit
-Hello i'm ankita 
-Hello i'm prachi  
-Hello i'm richa
-Hello i'm neeraj 
-Hello i'm priya
+Class Hello
+{
+ public static void main(String ar[])
+	{
+	System.out.println("Hello !");
+	}
+}
 
-tarun pgl h  
-tarun pgl h  
-sath me nalayk bhi 
-tarun pgl h  
-sath me nalayk bhi 
-tarun pgl h  
-sath me nalayk bhi 
-tarun pgl h  
-sath me nalayk bhi 
-tarun pgl h  
-sath me nalayk bhi 
-tarun pgl h  
-sath me nalayk bhi 
-or gdha bhi 
-or bandar bhi 
 
 
